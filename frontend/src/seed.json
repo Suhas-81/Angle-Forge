@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "brand_name": "Brewly",
+    "product_name": "Brewly Smart Travel Mug",
+    "product_tagline": "Your coffee, on your schedule.",
+    "product_price": "₹4,999",
+    "product_facts": [
+      "Holds a chosen temperature between 50°C and 65°C for up to 3 hours on battery",
+      "Keeps drinks warm for up to 6 hours with the battery off (insulation only)",
+      "350 ml capacity",
+      "Leak-proof lid that opens with one hand",
+      "Charges on its coaster; a full charge takes about 2 hours",
+      "Companion app shows drink temperature and battery level",
+      "Lid is dishwasher-safe; mug body is hand-wash only"
+    ],
+    "claims_policy": "Only state facts from the list above. No health or medical claims, no comparisons naming other brands, and no absolute words like 'never', 'forever' or '100%'.",
+    "tone_words": [
+      "playful",
+      "specific",
+      "warm",
+      "not pushy"
+    ],
+    "brand_dos": [
+      "Use concrete numbers and everyday moments (commute times, meetings, school runs)",
+      "Speak to one person, in second person ('you', 'your')",
+      "Keep sentences short; one idea per sentence"
+    ],
+    "brand_donts": [
+      "Use hype or urgency ('hurry', 'last chance')",
+      "Make fun of the reader or their situation",
+      "Use corporate jargon"
+    ],
+    "example_lines": [
+      "Metro: 58 min. Coffee: still 62°C.",
+      "Three meetings later, still the right sip.",
+      "Pour at 8. Sip at 10. Same coffee."
+    ],
+    "banned_words": [
+      "revolutionary",
+      "game-changer",
+      "elevate",
+      "unleash",
+      "seamless",
+      "cheap",
+      "hurry",
+      "guaranteed"
+    ],
+    "social_char_limit": 150,
+    "hashtag_limit": 2,
+    "social_emoji_limit": 1,
+    "email_subject_limit": 60,
+    "email_body_min_words": 80,
+    "email_body_max_words": 150,
+    "email_hashtags_allowed": false,
+    "email_cta_count": 1,
+    "email_sign_off": "— The Brewly team",
+    "email_body_limit": 9000,
+    "product_description": "Brewly Smart Travel Mug. Your coffee, on your schedule. Holds a chosen temperature between 50°C and 65°C for up to 3 hours on battery.",
+    "key_benefits": [
+      "Holds a chosen temperature between 50°C and 65°C for up to 3 hours on battery",
+      "350 ml capacity",
+      "Leak-proof lid that opens with one hand"
+    ],
+    "tone": "playful, specific, warm, not pushy"
+  },
+  "personas": [
+    {
+      "id": "professional",
+      "name": "Ava — The Commuter",
+      "profile": "29, busy office professional (fictional)",
+      "goal": "Enjoy her morning drink throughout a hectic commute and desk schedule",
+      "pain_points": [
+        "Coffee gets cold before the first meeting",
+        "Carrying a cup while commuting is awkward"
+      ],
+      "angle_preference": "Focus on calm, reliability and making mornings feel easier"
+    },
+    {
+      "id": "student",
+      "name": "Noah — The Student",
+      "profile": "21, university student (fictional)",
+      "goal": "Carry a favorite drink through lectures, library sessions and study groups",
+      "pain_points": [
+        "Long days moving between classrooms",
+        "Limited room in an everyday backpack"
+      ],
+      "angle_preference": "Focus on portability, rhythm and campus life without being overly salesy"
+    },
+    {
+      "id": "traveler",
+      "name": "Maya — The Explorer",
+      "profile": "34, frequent weekend traveler (fictional)",
+      "goal": "Keep a comforting drink close during road trips and early departures",
+      "pain_points": [
+        "Travel schedules change quickly",
+        "Spills are frustrating when moving from place to place"
+      ],
+      "angle_preference": "Focus on freedom, confidence and comfort on the move"
+    }
+  ]
+}
